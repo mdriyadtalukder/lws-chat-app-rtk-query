@@ -1,0 +1,254 @@
+{
+  "users": [
+    {
+      "email": "mdriyadt@gmail.com",
+      "password": "$2a$10$girdVgTfTV7GTUphnXnaye9Vy7yf4InxQc6EIZUC/D7zQxjnL73v2",
+      "name": "Md Riyad Talukder",
+      "id": 1
+    },
+    {
+      "email": "zidan@gmail.com",
+      "password": "$2a$10$rCsBvASl9oAW8.A/rTi46eVc.zU2tS6hsrqTJpnx/5f8LZL17mn1O",
+      "name": "Zidan Chowdhury",
+      "id": 2
+    },
+    {
+      "email": "rakib@gmail.com",
+      "password": "$2a$10$2yd1PUk1Arb70i9w9ZD2DORhktqHRTugywkKA2lIFZR1YxZbAL8N6",
+      "name": "Rakib Hasan",
+      "id": 3
+    },
+    {
+      "email": "riya@gmail.com",
+      "password": "$2a$10$jBlwGPYzY1S.oiHOaMm3v.34InPD3o/K.HlNWxs3EdXDn0tNrwRAG",
+      "name": "Riya",
+      "id": 4
+    },
+    {
+      "email": "toma@gmail.com",
+      "password": "$2a$10$HKAM.2oTWzTmORbZhFzedumfU3Vfk7dBEV3eMCLlw/h.pxo9ExfQ6",
+      "name": "Toma Chowdhury",
+      "id": 5
+    },
+    {
+      "email": "riyadd@gmail.com",
+      "password": "$2a$10$9aCsajGEHYpoySvPk3Xd2ej.PupEfy1J4wPyJHyHFGZZOqxfbajXu",
+      "name": "riyad",
+      "id": 6
+    },
+    {
+      "email": "t1@gmail.com",
+      "password": "$2a$10$MqmYYPcGUGGS4j1p5a3qZeyS0cU7o2kGzcEZ/PF2eUnRykhAFSOKa",
+      "name": "text",
+      "id": 7
+    },
+    {
+      "email": "t2@gmail.com",
+      "password": "$2a$10$iZ0lMWfmLKGACyj33UEH7ejGFDl4owoY7cJugGhftgfqqC04fPQVm",
+      "name": "text2",
+      "id": 8
+    },
+    {
+      "email": "t3@gmail.com",
+      "password": "$2a$10$4jKm1e9NMTFs4O.NuPnVq.ZfwvA8aqHHJWNxSkt7zLFZ/7/usadGm",
+      "name": "text3",
+      "id": 9
+    },
+    {
+      "email": "t4@gmail.com",
+      "password": "$2a$10$xA4PnXeLh8KEqkDBAtvEYumo9gKoYvgsni4HhQMiv.AYQP.aIUtv.",
+      "name": "text4",
+      "id": 10
+    },
+    {
+      "email": "t5@gmail.com",
+      "password": "$2a$10$dhXMRJ4JnyODbV6qCC7houyizUn/Dqhk2NYlU336Njbwuct8fFsue",
+      "name": "text5",
+      "id": 11
+    },
+    {
+      "email": "xxx@gmail.com",
+      "password": "$2a$10$AyFhXI.ovXHa93IcYZEbM.QptWa2hV1MWAbeFf7IOPQ0m2Esp8e2i",
+      "name": "XXXXX",
+      "id": 12
+    },
+    {
+      "email": "mdriyad@gmail.com",
+      "password": "$2a$10$9u..RjtpLmgGL1Ok/Ufh4.qQFHfjGsismtRgUvuaUv0RLy822fvgi",
+      "name": "Riyad Talukder",
+      "confirmPassword": "12345",
+      "agree": true,
+      "id": 13
+    },
+    {
+      "email": "zidan1@gmail.com",
+      "password": "$2a$10$y4oAtEXF8NJbKZzfNN4l7O0nBLBsIiIeLK/Ae4yb2Oq6oR1QJtO6y",
+      "name": "Riyad Talukderk",
+      "confirmPassword": "12345",
+      "agree": true,
+      "id": 14
+    }
+  ],
+  "conversations": [
+    {
+      "participants": "mdriyadt@gmail.com-zidan@gmail.com",
+      "users": [
+        {
+          "email": "mdriyadt@gmail.com",
+          "name": "Md Riyad Talukder",
+          "id": 1
+        },
+        {
+          "email": "zidan@gmail.com",
+          "password": "$2a$10$rCsBvASl9oAW8.A/rTi46eVc.zU2tS6hsrqTJpnx/5f8LZL17mn1O",
+          "name": "Zidan Chowdhury",
+          "id": 2
+        }
+      ],
+      "message": "ok",
+      "timestamp": 1710442138243,
+      "id": 1
+    },
+    {
+      "participants": "mdriyadt@gmail.com-rakib@gmail.com",
+      "users": [
+        {
+          "email": "mdriyadt@gmail.com",
+          "name": "Md Riyad Talukder",
+          "id": 1
+        },
+        {
+          "email": "rakib@gmail.com",
+          "password": "$2a$10$2yd1PUk1Arb70i9w9ZD2DORhktqHRTugywkKA2lIFZR1YxZbAL8N6",
+          "name": "Rakib Hasan",
+          "id": 3
+        }
+      ],
+      "message": "hey",
+      "timestamp": 1710442158077,
+      "id": 2
+    },
+    {
+      "participants": "mdriyadt@gmail.com-riyadd@gmail.com",
+      "users": [
+        {
+          "email": "mdriyadt@gmail.com",
+          "name": "Md Riyad Talukder",
+          "id": 1
+        },
+        {
+          "email": "riyadd@gmail.com",
+          "password": "$2a$10$9aCsajGEHYpoySvPk3Xd2ej.PupEfy1J4wPyJHyHFGZZOqxfbajXu",
+          "name": "riyad",
+          "id": 6
+        }
+      ],
+      "message": "hello",
+      "timestamp": 1710442169148,
+      "id": 3
+    }
+  ],
+  "messages": [
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "mdriyadt@gmail.com",
+        "name": "Md Riyad Talukder",
+        "id": 1
+      },
+      "receiver": {
+        "email": "zidan@gmail.com",
+        "password": "$2a$10$rCsBvASl9oAW8.A/rTi46eVc.zU2tS6hsrqTJpnx/5f8LZL17mn1O",
+        "name": "Zidan Chowdhury",
+        "id": 2
+      },
+      "message": "hi",
+      "timestamp": 1710442115623,
+      "id": 1
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "mdriyadt@gmail.com",
+        "name": "Md Riyad Talukder",
+        "id": 1
+      },
+      "receiver": {
+        "email": "zidan@gmail.com",
+        "password": "$2a$10$rCsBvASl9oAW8.A/rTi46eVc.zU2tS6hsrqTJpnx/5f8LZL17mn1O",
+        "name": "Zidan Chowdhury",
+        "id": 2
+      },
+      "message": "ki",
+      "timestamp": 1710442126412,
+      "id": 2
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "zidan@gmail.com",
+        "name": "Zidan Chowdhury",
+        "id": 2
+      },
+      "receiver": {
+        "email": "mdriyadt@gmail.com",
+        "name": "Md Riyad Talukder",
+        "id": 1
+      },
+      "message": "ntg",
+      "timestamp": 1710442133617,
+      "id": 3
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "mdriyadt@gmail.com",
+        "name": "Md Riyad Talukder",
+        "id": 1
+      },
+      "receiver": {
+        "email": "zidan@gmail.com",
+        "password": "$2a$10$rCsBvASl9oAW8.A/rTi46eVc.zU2tS6hsrqTJpnx/5f8LZL17mn1O",
+        "name": "Zidan Chowdhury",
+        "id": 2
+      },
+      "message": "ok",
+      "timestamp": 1710442138243,
+      "id": 4
+    },
+    {
+      "conversationId": 2,
+      "sender": {
+        "email": "mdriyadt@gmail.com",
+        "name": "Md Riyad Talukder",
+        "id": 1
+      },
+      "receiver": {
+        "email": "rakib@gmail.com",
+        "password": "$2a$10$2yd1PUk1Arb70i9w9ZD2DORhktqHRTugywkKA2lIFZR1YxZbAL8N6",
+        "name": "Rakib Hasan",
+        "id": 3
+      },
+      "message": "hey",
+      "timestamp": 1710442158077,
+      "id": 5
+    },
+    {
+      "conversationId": 3,
+      "sender": {
+        "email": "mdriyadt@gmail.com",
+        "name": "Md Riyad Talukder",
+        "id": 1
+      },
+      "receiver": {
+        "email": "riyadd@gmail.com",
+        "password": "$2a$10$9aCsajGEHYpoySvPk3Xd2ej.PupEfy1J4wPyJHyHFGZZOqxfbajXu",
+        "name": "riyad",
+        "id": 6
+      },
+      "message": "hello",
+      "timestamp": 1710442169148,
+      "id": 6
+    }
+  ]
+}
